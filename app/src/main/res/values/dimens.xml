@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--The height of the image-->
+    <dimen name="image_height">200dp</dimen>
+    <!--The internal padding of the layout that contains the information-->
+    <dimen name="layout_padding">16dp</dimen>
+    <!--The space between each header/key and value-->
+    <dimen name="header_value_space">8dp</dimen>
+</resources>
